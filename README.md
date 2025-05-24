@@ -1,2 +1,2 @@
-# Animal-Shelters
-A data analysis project investigating the frequency of dogs in several shelters across the United States based on age, breed, and reason for intake.
+# Animal Shelters
+This analyis project was done for CMSE 201 at Michigan State University. The project utilized Python via Jupyter Notebook to gather and clean data, and perform analyses to answer my research question. I obtained data from two different animal shelters, one in Austin, Texas, and the other in Bloomington, Indiana. The data included variables about each dog's age, breed, intake date, adopted date, and reason for intake. I investigated breed and age frequency as well as the most common reasons a dog was dropped off at the shelter.
